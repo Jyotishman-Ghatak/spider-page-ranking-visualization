@@ -15,7 +15,7 @@ You need to download [DB browser](https://sqlitebrowser.org/dl/) to view and mod
 |---|:--------------------------:|:---------------:|--------------|:-----------:|---------:|
 | 1 | https://www.soundcloud.com | <html><head>... | NULL         | 0.3432134   | 0.289767 |
 | 2 | https://www.soundcloud.com/discover | <!DOCTYPE html> | NULL         | 0.139642    | 0.14221  |
-| 3 | https://www.soundcloud.com/ | NULL            | -1           | NULL        | 1.0      |  
+| 3 | https://www.soundcloud.com/upload | NULL            | -1           | NULL        | 1.0      |  
 
 ## USAGE
 #### Execution of programs are done in following manner
